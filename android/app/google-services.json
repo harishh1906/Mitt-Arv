@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095193830811",
+    "project_id": "mitt-arv-d020c",
+    "storage_bucket": "mitt-arv-d020c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095193830811:android:50862171e2d5197621ed3e",
+        "android_client_info": {
+          "package_name": "schemas.android.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYYCM-kLnI7H7NHNHr_y5Z9m2HwJOcQ3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
