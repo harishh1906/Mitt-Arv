@@ -12,7 +12,7 @@ class CartProvider extends ChangeNotifier {
   // Add product to cart
   void addToCart(Map<String, dynamic> product) {
     _cartItems.add(product);
-    notifyListeners(); // Notify listeners (like CartPage) to update UI
+    notifyListeners();
   }
 
   // Remove product from cart
