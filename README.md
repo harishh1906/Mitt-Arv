@@ -59,3 +59,14 @@ Follow these steps to run the app locally:
    ```bash
    git clone https://github.com/harishh1906/Mitt-Arv.git
    cd Mitt-Arv
+ ## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Product Details
+![Product Details](screenshots/product_details.png)
+
+### Cart Page
+![Cart Page](screenshots/cart_page.png)
+
